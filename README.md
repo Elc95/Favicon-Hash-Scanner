@@ -13,8 +13,8 @@ This script scans the favicon of a website and generates a hash of the favicon c
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/favicon-scanner.git
-   cd favicon-scanner
+   git clone https://github.com/Elc95/Favsrcon.git
+   cd Favsrcon
 2. Install dependencies:
    pip install -r requirements.txt
    or
