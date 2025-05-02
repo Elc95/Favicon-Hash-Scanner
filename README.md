@@ -32,9 +32,7 @@ This script scans the favicon of a website and generates a hash of the favicon c
      --quiet: Only critical errors and results
    Example:
    python favsrcon.py https://example.com --quiet
-
-   Output
-
+5. Output
    Results will be saved in the /results folder as:
    domain_name.txt (for single URLs)
    output.txt (for multiple URLs)
