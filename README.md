@@ -2,16 +2,6 @@
 
 This script scans the favicon of a website and generates a hash of the favicon content. The script supports scanning both single URLs and lists of URLs.
 
-## Features
-
-✅ Randomized User-Agent header for each request.
-
-✅ SSL verification skip for IP-based URLs over HTTPS (user confirmation).
-
-✅ Customizable verbosity output with `--quiet` and `--verbose` flags.
-
-✅ Output saved as `domain_name.txt` or `output.txt` in the `/results` folder.
-
 ## Usage
 
 1. Clone the repository:
@@ -36,3 +26,13 @@ This script scans the favicon of a website and generates a hash of the favicon c
    Results will be saved in the /results folder as:
    domain_name.txt (for single URLs)
    output.txt (for multiple URLs)
+
+## Features
+
+✅ Randomized User-Agent header for each request.
+
+✅ SSL verification skip for IP-based URLs over HTTPS (user confirmation).
+
+✅ Customizable verbosity output with `--quiet` and `--verbose` flags.
+
+✅ Output saved as `domain_name.txt` or `output.txt` in the `/results` folder.
